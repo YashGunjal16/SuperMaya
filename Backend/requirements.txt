@@ -1,0 +1,31 @@
+# FastAPI Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database (SQLite with asyncio)
+sqlalchemy[asyncio]
+aiosqlite
+alembic
+
+
+yfinance
+pandas
+
+# Pydantic & Instructor for structured outputs
+pydantic
+pydantic-settings 
+instructor
+
+# Multi-LLM (Groq, Gemini, etc.) & AI
+litellm
+google-generativeai # <-- ADD THIS
+transformers
+torch
+pillow
+
+# Utilities & Security
+python-dotenv
+httpx 
+python-jose[cryptography]
+passlib[bcrypt] # <-- ADD THIS

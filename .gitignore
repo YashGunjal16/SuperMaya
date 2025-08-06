@@ -1,0 +1,21 @@
+# --- General ---
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# --- Backend (Python) ---
+Backend/venv/
+Backend/__pycache__/
+Backend/*.db
+Backend/*.sqlite3
+Backend/.env
+
+# --- Frontend (Node.js) ---
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.env.*
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*

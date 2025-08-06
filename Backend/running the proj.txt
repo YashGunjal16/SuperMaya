@@ -1,0 +1,2 @@
+1)run this create venv like only activate and then   uvicorn app.main:app --reload
+then go to ui wala folder cmd terminal and there only npm run dev
