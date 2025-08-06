@@ -4,7 +4,8 @@ SuperMaya is a next-generation, multi-modal, and agentic AI platform designed to
 
 The core innovation of SuperMaya lies in its **agentic architecture**, where a central "MetaAgent" intelligently classifies user intent and routes tasks to specialized sub-agents. This allows the system to handle diverse and complex queries, from real-time financial data analysis to generative data visualization and multi-modal image understanding.
 
-**[▶️ Watch the Live Demo on Loom](https://www.loom.com/your-video-link-here)**
+### [✨ Access the Live Demo Here!](https://your-supermaya-deployment-link.vercel.app)
+*(Deployment link will be active soon)*
 
 ---
 
